@@ -1,0 +1,74 @@
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.exe
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.deps.json
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.runtimeconfig.json
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form1.resources
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.GenerateResource.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfoInputs.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfo.cs
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.CoreCompileInputs.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\refint\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.genruntimeconfig.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\ref\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.PantallaInicio.resources
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Properties.Resources.resources
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.exe
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.deps.json
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.runtimeconfig.json
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form1.resources
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.PantallaInicio.resources
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Properties.Resources.resources
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfo.cs
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\refint\Space_Invaders.dll
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.genruntimeconfig.cache
+C:\Users\victo\Desktop\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\ref\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\refint\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.exe
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.deps.json
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.runtimeconfig.json
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form1.resources
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.PantallaInicio.resources
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Properties.Resources.resources
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.GenerateResource.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfoInputs.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfo.cs
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.CoreCompileInputs.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.genruntimeconfig.cache
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\ref\Space_Invaders.dll
+C:\Users\trivi\source\repos\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form2.resources
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.exe
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.deps.json
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.runtimeconfig.json
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\bin\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form1.resources
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Form2.resources
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.PantallaInicio.resources
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.Properties.Resources.resources
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.AssemblyInfo.cs
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.dll
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\refint\Space_Invaders.dll
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.pdb
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\Space_Invaders.genruntimeconfig.cache
+C:\Users\victo\Desktop\Nueva carpeta (2)\Space_Invaders\Space_Invaders\Space_Invaders\obj\Debug\net6.0-windows\ref\Space_Invaders.dll
